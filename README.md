@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohandwivedi77/DSA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/rohandwivedi77/DSA/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/rohandwivedi77/DSA/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rohandwivedi77/DSA/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/rohandwivedi77/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
