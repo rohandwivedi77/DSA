@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohandwivedi77/DSA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/rohandwivedi77/DSA/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/rohandwivedi77/DSA/tree/master/0724-find-pivot-index) |
 | [1929-concatenation-of-array](https://github.com/rohandwivedi77/DSA/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rohandwivedi77/DSA/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/rohandwivedi77/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
