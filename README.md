@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohandwivedi77/DSA/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rohandwivedi77/DSA/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/rohandwivedi77/DSA/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohandwivedi77/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rohandwivedi77/DSA/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohandwivedi77/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohandwivedi77/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
