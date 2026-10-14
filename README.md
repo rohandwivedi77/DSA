@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohandwivedi77/DSA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/rohandwivedi77/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rohandwivedi77/DSA/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohandwivedi77/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/rohandwivedi77/DSA/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rohandwivedi77/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
