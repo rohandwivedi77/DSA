@@ -11,6 +11,7 @@
 | [0724-find-pivot-index](https://github.com/rohandwivedi77/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/rohandwivedi77/DSA/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/rohandwivedi77/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rohandwivedi77/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohandwivedi77/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/rohandwivedi77/DSA/tree/master/1929-concatenation-of-array) |
@@ -32,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rohandwivedi77/DSA/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/rohandwivedi77/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rohandwivedi77/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohandwivedi77/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
@@ -52,6 +54,7 @@
 | [0011-container-with-most-water](https://github.com/rohandwivedi77/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/rohandwivedi77/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/rohandwivedi77/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohandwivedi77/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
